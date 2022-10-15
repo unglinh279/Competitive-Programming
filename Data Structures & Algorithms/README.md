@@ -15,4 +15,8 @@
 - Algorithms
   - [Kruskal's Minimum Spanning Tree Algorithm](kruskal_MST.cpp)
   - [Lowest Common Ancestor in a Binary Tree Using RMQ](LCA_RMQ.cpp)
+  
+  # Articles
+- DFS Tree: https://codeforces.com/blog/entry/68138
+- Tarjan: https://codeforces.com/blog/entry/71146
 
